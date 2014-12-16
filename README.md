@@ -1,5 +1,7 @@
 Week 2 project for the Code Fellows iOS Development Accelerator
 
+![](https://github.com/pakalewis/PhotoFilters/blob/master/screenshot.png)
+
 This app interacts with photos in various ways.
 The user can:
 - choose a photo from a gallery or take a picture from the device's camera or library
