@@ -1,8 +1,6 @@
 Week 2 project for the Code Fellows iOS Development Accelerator
 ____________________________________________________________________________________________________________________
-![](https://github.com/pakalewis/PhotoFilters/blob/master/screenshot1.png)
-____________________________________________________________________________________________________________________
-![](https://github.com/pakalewis/PhotoFilters/blob/master/screenshot2.png)
+![](https://github.com/pakalewis/PhotoFilters/blob/master/screenshot.png)
 ____________________________________________________________________________________________________________________
 
 This app interacts with photos in various ways.
